@@ -1,0 +1,6 @@
+{"Records": 
+    [
+        {"limit": 3, "print_urls": false, "silent_mode": true, "extract_metadata": true, "keywords": "apple"}
+    , {"limit": 3, "print_urls": false, "silent_mode": true, "extract_metadata": true, "keywords": "banana"}, 
+    {"limit": 3, "print_urls": false, "silent_mode": true, "extract_metadata": true, "keywords": "greep"}, 
+    {"limit": 3, "print_urls": false, "silent_mode": true, "extract_metadata": true, "keywords": "gold"}]}
